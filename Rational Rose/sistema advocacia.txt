@@ -1,0 +1,11 @@
+Ator:secretaria e o advogado
+Caso de uso:
+controle advogado
+controle cliente
+controle tipo de processo
+controle contra
+controle vara
+controle comarca
+controle ação
+controle andamento
+controle processo
